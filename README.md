@@ -1,6 +1,6 @@
 # Hey there! 👋
 
-My name is Ananth Kini and I'm a computer science student at the University of California, Irvine 🐜. I have experience across full-stack, AI/ML, and backend/data engineering but am always looking to grow and explore new areas of software engineering.
+My name is Ananth Kini and I'm a Computer Science student at the University of California, Irvine 🐜. I have experience across full-stack, AI/ML, and backend/data engineering but am always looking to grow and explore new areas of software engineering.
 
 ## Here's what I'm currently up to:
 
