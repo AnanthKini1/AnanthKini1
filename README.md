@@ -11,7 +11,7 @@ My name is Ananth Kini and I'm a Computer Science student at the University of C
 
 ### 📈 AI/ML Fellow at [Breakthrough Tech](https://www.breakthroughtech.org/programs/#ai-program)
 - Completed coursework on eCornell across supervised/unsupervised learning models (K-Means clustering, decision trees, logistic/linear regression, neural networks) and AI systems (NLP, RAG, LLMs, MCPs) by analyzing how they are built internally and building projects through weekly labs for business cases.
-- Will be working with ShipStation Global this fall to develop an in-house solution to predict each shipment's realized delivery transit time and on-time risk, and recommend the best carrier by cost-versus-speed trade-off.
+- Will be working with ShipStation Global this fall to develop a solution for them to predict each shipment's realized delivery transit time and on-time risk, and recommend the best carrier by cost-versus-speed trade-off.
 
 ### 💜 Technical Lead at [Commit the Change @ UCI](https://ctc-uci.com/)
 - Commit the Change is a club at UCI that builds high-quality software applications for local non-profits. As a Technical Lead, I will be leading a team of 15+ talented developers and designers to build a full-stack application throughout the upcoming school year for a non-profit partner to solve their needs.
