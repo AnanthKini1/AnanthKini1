@@ -6,7 +6,7 @@ My name is Ananth Kini and I'm a computer science student at the University of C
 
 ### 🦅 Software / Data Engineering Intern at [First American Financial](https://www.firstam.com/)
 - Developed large-scale data pipelines from SQL Server into Databricks, automating data transformations, pipeline testing and logging for auditing purposes — reducing 15+ hours of previously manual work.
-- Improved pipeline efficiency by reducing records processed nightly by 99.75% for financial reporting. Thoroughly documented each stage of my pipeline making it easier for future engineers to onboard.
+- Improved pipeline efficiency by reducing records processed nightly by 99.75% for financial reporting. Thoroughly documented each stage of my pipeline making it easier for engineers to onboard and become familiar with the Databricks environment.
 - Will be wrapping up my current project by getting it into production and continuing part-time throughout fall semester in a more SWE-focused capacity.
 
 ### 📈 AI/ML Fellow at [Breakthrough Tech](https://www.breakthroughtech.org/programs/#ai-program)
